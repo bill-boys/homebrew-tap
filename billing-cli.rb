@@ -2,9 +2,9 @@ class BillingCli < Formula
   desc "CLI tools for our boys at Billing"
   homepage "https://github.com/bill-boys/billing-cli-releases/"
   head "https://github.com/bill-boys/billing-cli-releases.git"
-  version "0.0.1-alpha.1"
-  url "https://github.com/bill-boys/billing-cli-releases/releases/download/v0.0.1-alpha.2/billing-cli.tar.gz"
-  sha256 "25cad63c4d3d08d240fec5af6965dc689bf79bd672cc9f5bc677008ee409d8eb"
+  version "0.0.1-alpha.3"
+  url "https://github.com/bill-boys/billing-cli-releases/releases/download/v0.0.1-alpha.3/billing-cli.tar.gz"
+  sha256 "831790e18430aa03979061b720626d5c0e23511d782f167db6e4ade493bf1110"
 
   def install
     bin.install "bill"
