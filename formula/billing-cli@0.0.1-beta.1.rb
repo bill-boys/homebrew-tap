@@ -1,4 +1,4 @@
-class BillingCli < Formula
+class BillingCliAT001Beta1 < Formula
   desc "CLI tools for our boys at Billing"
   homepage "https://github.com/bill-boys/billing-cli-releases/"
   head "https://github.com/bill-boys/billing-cli-releases.git"
