@@ -4,7 +4,7 @@ class BillingCliAT001Beta8 < Formula
   head "https://github.com/bill-boys/billing-cli-releases.git"
   version "0.0.1-beta.8"
   url "https://github.com/bill-boys/billing-cli-releases/releases/download/v0.0.1-beta.8/billing-cli.tar.gz"
-  sha256 "3494dae66bc736e0cbc3b2d9d44d14f209fb72bf0d3029d43b88bd4830b35757"
+  sha256 "3cbd1921d75d85d324abbda9c73d1f004eee25c26cfbe756f92d72be9fa45007"
 
   def install
     bin.install "bill"
